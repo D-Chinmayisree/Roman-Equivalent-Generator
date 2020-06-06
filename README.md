@@ -4,8 +4,8 @@
 # Roman-Equivalent-Generator
 
 
-This is just a sample app which is built with Kotlin🦸superpower and *Modern Android development* tools! 
-This app used to comvert the any number into a Roman Equivalents.
+This is just a sample app which is built with Kotlin🦸superpower and *Modern Android development* tools! <br>
+This app used to covert the any number into a Roman Equivalents.
 
 ---
 
